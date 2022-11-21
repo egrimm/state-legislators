@@ -1,0 +1,1300 @@
+- id:
+    bioguide: CUSTOM_1001_43984
+    MBR_ID: 1001
+    UNIQUEMBRID: 43984
+  name:
+    first: Tim
+    last: Melson
+  terms:
+  - type: sen
+    state: AL
+    district: 001
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1002_46633
+    MBR_ID: 1002
+    UNIQUEMBRID: 46633
+  name:
+    first: Tom
+    last: Butler
+  terms:
+  - type: sen
+    state: AL
+    district: 002
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1003_35226
+    MBR_ID: 1003
+    UNIQUEMBRID: 35226
+  name:
+    first: Arthur
+    last: Orr
+  terms:
+  - type: sen
+    state: AL
+    district: 003
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1004_46635
+    MBR_ID: 1004
+    UNIQUEMBRID: 46635
+  name:
+    first: Garlan
+    last: Gudger
+  terms:
+  - type: sen
+    state: AL
+    district: 004
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1005_38578
+    MBR_ID: 1005
+    UNIQUEMBRID: 38578
+  name:
+    first: Greg
+    last: Reed
+  terms:
+  - type: sen
+    state: AL
+    district: 005
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1006_43985
+    MBR_ID: 1006
+    UNIQUEMBRID: 43985
+  name:
+    first: Larry
+    last: Stutts
+  terms:
+  - type: sen
+    state: AL
+    district: 006
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1007_46636
+    MBR_ID: 1007
+    UNIQUEMBRID: 46636
+  name:
+    first: Sam
+    last: Givhan
+  terms:
+  - type: sen
+    state: AL
+    district: 007
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1008_43986
+    MBR_ID: 1008
+    UNIQUEMBRID: 43986
+  name:
+    first: Steve
+    last: Livingston
+  terms:
+  - type: sen
+    state: AL
+    district: 008
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1009_38580
+    MBR_ID: 1009
+    UNIQUEMBRID: 38580
+  name:
+    first: Clay
+    last: Scofield
+  terms:
+  - type: sen
+    state: AL
+    district: 009
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1010_46639
+    MBR_ID: 1010
+    UNIQUEMBRID: 46639
+  name:
+    first: Andrew
+    last: Jones
+  terms:
+  - type: sen
+    state: AL
+    district: 010
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1011_31140
+    MBR_ID: 1011
+    UNIQUEMBRID: 31140
+  name:
+    first: Jim
+    last: McClendon
+  terms:
+  - type: sen
+    state: AL
+    district: 011
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1012_27821
+    MBR_ID: 1012
+    UNIQUEMBRID: 27821
+  name:
+    first: Del C.
+    last: Marsh
+  terms:
+  - type: sen
+    state: AL
+    district: 012
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1013_46641
+    MBR_ID: 1013
+    UNIQUEMBRID: 46641
+  name:
+    first: Randy
+    last: Price
+  terms:
+  - type: sen
+    state: AL
+    district: 013
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1014_38666
+    MBR_ID: 1014
+    UNIQUEMBRID: 38666
+  name:
+    first: April C.
+    last: Weaver
+  terms:
+  - type: sen
+    state: AL
+    district: 014
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1015_46643
+    MBR_ID: 1015
+    UNIQUEMBRID: 46643
+  name:
+    first: Dan
+    last: Roberts
+  terms:
+  - type: sen
+    state: AL
+    district: 015
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1016_20016
+    MBR_ID: 1016
+    UNIQUEMBRID: 20016
+  name:
+    first: J.T.
+    last: Waggoner
+  terms:
+  - type: sen
+    state: AL
+    district: 016
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1017_43987
+    MBR_ID: 1017
+    UNIQUEMBRID: 43987
+  name:
+    first: Shay
+    last: Shelnutt
+  terms:
+  - type: sen
+    state: AL
+    district: 017
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1018_20018
+    MBR_ID: 1018
+    UNIQUEMBRID: 20018
+  name:
+    first: Rodger Mell
+    last: Smitherman
+  terms:
+  - type: sen
+    state: AL
+    district: 018
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1019_38348
+    MBR_ID: 1019
+    UNIQUEMBRID: 38348
+  name:
+    first: Priscilla
+    last: Dunn
+  terms:
+  - type: sen
+    state: AL
+    district: 019
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1020_31151
+    MBR_ID: 1020
+    UNIQUEMBRID: 31151
+  name:
+    first: Linda
+    last: Coleman-Madison
+  terms:
+  - type: sen
+    state: AL
+    district: 020
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1021_20097
+    MBR_ID: 1021
+    UNIQUEMBRID: 20097
+  name:
+    first: Gerald H.
+    last: Allen
+  terms:
+  - type: sen
+    state: AL
+    district: 021
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1022_43988
+    MBR_ID: 1022
+    UNIQUEMBRID: 43988
+  name:
+    first: Greg
+    last: Albritton
+  terms:
+  - type: sen
+    state: AL
+    district: 022
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1023_46646
+    MBR_ID: 1023
+    UNIQUEMBRID: 46646
+  name:
+    first: Malika
+    last: Sanders-Fortier
+  terms:
+  - type: sen
+    state: AL
+    district: 023
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1024_31155
+    MBR_ID: 1024
+    UNIQUEMBRID: 31155
+  name:
+    first: Bobby
+    last: Singleton
+  terms:
+  - type: sen
+    state: AL
+    district: 024
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1025_46648
+    MBR_ID: 1025
+    UNIQUEMBRID: 46648
+  name:
+    first: Will
+    last: Barfoot
+  terms:
+  - type: sen
+    state: AL
+    district: 025
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1026_46681
+    MBR_ID: 1026
+    UNIQUEMBRID: 46681
+  name:
+    first: Kirk
+    last: Hatcher
+  terms:
+  - type: sen
+    state: AL
+    district: 026
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1027_38611
+    MBR_ID: 1027
+    UNIQUEMBRID: 38611
+  name:
+    first: Tom
+    last: Whatley
+  terms:
+  - type: sen
+    state: AL
+    district: 027
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1028_27842
+    MBR_ID: 1028
+    UNIQUEMBRID: 27842
+  name:
+    first: William
+    last: Beasley
+  terms:
+  - type: sen
+    state: AL
+    district: 028
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1029_38689
+    MBR_ID: 1029
+    UNIQUEMBRID: 38689
+  name:
+    first: Donnie
+    last: Chesteen
+  terms:
+  - type: sen
+    state: AL
+    district: 029
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1030_43989
+    MBR_ID: 1030
+    UNIQUEMBRID: 43989
+  name:
+    first: Clyde
+    last: Chambliss
+  terms:
+  - type: sen
+    state: AL
+    district: 030
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1031_27824
+    MBR_ID: 1031
+    UNIQUEMBRID: 27824
+  name:
+    first: Jimmy W.
+    last: Holley
+  terms:
+  - type: sen
+    state: AL
+    district: 031
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1032_46654
+    MBR_ID: 1032
+    UNIQUEMBRID: 46654
+  name:
+    first: Chris
+    last: Elliott
+  terms:
+  - type: sen
+    state: AL
+    district: 032
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1033_20033
+    MBR_ID: 1033
+    UNIQUEMBRID: 20033
+  name:
+    first: Vivian Davis
+    last: Figures
+  terms:
+  - type: sen
+    state: AL
+    district: 033
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1034_44013
+    MBR_ID: 1034
+    UNIQUEMBRID: 44013
+  name:
+    first: Jack W.
+    last: Williams
+  terms:
+  - type: sen
+    state: AL
+    district: 034
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1035_40370
+    MBR_ID: 1035
+    UNIQUEMBRID: 40370
+  name:
+    first: David
+    last: Sessions
+  terms:
+  - type: sen
+    state: AL
+    district: 035
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1036_43990
+    MBR_ID: 1036
+    UNIQUEMBRID: 43990
+  name:
+    first: Phillip
+    last: Pettus
+  terms:
+  - type: rep
+    state: AL
+    district: 001
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1037_38835
+    MBR_ID: 1037
+    UNIQUEMBRID: 38835
+  name:
+    first: Lynn
+    last: Greer
+  terms:
+  - type: rep
+    state: AL
+    district: 002
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1038_46665
+    MBR_ID: 1038
+    UNIQUEMBRID: 46665
+  name:
+    first: Andrew
+    last: Sorrell
+  terms:
+  - type: rep
+    state: AL
+    district: 003
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1039_46378
+    MBR_ID: 1039
+    UNIQUEMBRID: 46378
+  name:
+    first: Parker
+    last: Moore
+  terms:
+  - type: rep
+    state: AL
+    district: 004
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1040_44576
+    MBR_ID: 1040
+    UNIQUEMBRID: 44576
+  name:
+    first: Danny
+    last: Crawford
+  terms:
+  - type: rep
+    state: AL
+    district: 005
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1041_46666
+    MBR_ID: 1041
+    UNIQUEMBRID: 46666
+  name:
+    first: Andy
+    last: Whitt
+  terms:
+  - type: rep
+    state: AL
+    district: 006
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1042_46667
+    MBR_ID: 1042
+    UNIQUEMBRID: 46667
+  name:
+    first: Proncey
+    last: Robertson
+  terms:
+  - type: rep
+    state: AL
+    district: 007
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1043_38620
+    MBR_ID: 1043
+    UNIQUEMBRID: 38620
+  name:
+    first: Terri
+    last: Collins
+  terms:
+  - type: rep
+    state: AL
+    district: 008
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1044_46668
+    MBR_ID: 1044
+    UNIQUEMBRID: 46668
+  name:
+    first: Scott
+    last: Stadthagen
+  terms:
+  - type: rep
+    state: AL
+    district: 009
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1045_31137
+    MBR_ID: 1045
+    UNIQUEMBRID: 31137
+  name:
+    first: Mike
+    last: Ball
+  terms:
+  - type: rep
+    state: AL
+    district: 010
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1046_42382
+    MBR_ID: 1046
+    UNIQUEMBRID: 42382
+  name:
+    first: Randall
+    last: Shedd
+  terms:
+  - type: rep
+    state: AL
+    district: 011
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1047_43991
+    MBR_ID: 1047
+    UNIQUEMBRID: 43991
+  name:
+    first: Corey
+    last: Harbison
+  terms:
+  - type: rep
+    state: AL
+    district: 012
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1048_43992
+    MBR_ID: 1048
+    UNIQUEMBRID: 43992
+  name:
+    first: Connie
+    last: Rowe
+  terms:
+  - type: rep
+    state: AL
+    district: 013
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1049_43993
+    MBR_ID: 1049
+    UNIQUEMBRID: 43993
+  name:
+    first: Tim
+    last: Wadsworth
+  terms:
+  - type: rep
+    state: AL
+    district: 014
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1050_38630
+    MBR_ID: 1050
+    UNIQUEMBRID: 38630
+  name:
+    first: Allen
+    last: Farley
+  terms:
+  - type: rep
+    state: AL
+    district: 015
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1051_43994
+    MBR_ID: 1051
+    UNIQUEMBRID: 43994
+  name:
+    first: Kyle
+    last: South
+  terms:
+  - type: rep
+    state: AL
+    district: 016
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1052_46669
+    MBR_ID: 1052
+    UNIQUEMBRID: 46669
+  name:
+    first: Tracy
+    last: Estes
+  terms:
+  - type: rep
+    state: AL
+    district: 017
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1053_46670
+    MBR_ID: 1053
+    UNIQUEMBRID: 46670
+  name:
+    first: Jamie
+    last: Kiel
+  terms:
+  - type: rep
+    state: AL
+    district: 018
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1054_20054
+    MBR_ID: 1054
+    UNIQUEMBRID: 20054
+  name:
+    first: Laura V.
+    last: Hall
+  terms:
+  - type: rep
+    state: AL
+    district: 019
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1055_20055
+    MBR_ID: 1055
+    UNIQUEMBRID: 20055
+  name:
+    first: Howard
+    last: Sanderford
+  terms:
+  - type: rep
+    state: AL
+    district: 020
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1056_46350
+    MBR_ID: 1056
+    UNIQUEMBRID: 46350
+  name:
+    first: Rex
+    last: Reynolds
+  terms:
+  - type: rep
+    state: AL
+    district: 021
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1057_43995
+    MBR_ID: 1057
+    UNIQUEMBRID: 43995
+  name:
+    first: Ritchie
+    last: Whorton
+  terms:
+  - type: rep
+    state: AL
+    district: 022
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1058_43996
+    MBR_ID: 1058
+    UNIQUEMBRID: 43996
+  name:
+    first: James
+    last: Hanes
+  terms:
+  - type: rep
+    state: AL
+    district: 023
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1059_43997
+    MBR_ID: 1059
+    UNIQUEMBRID: 43997
+  name:
+    first: Nathaniel
+    last: Ledbetter
+  terms:
+  - type: rep
+    state: AL
+    district: 024
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1060_35235
+    MBR_ID: 1060
+    UNIQUEMBRID: 35235
+  name:
+    first: Mac
+    last: McCutcheon
+  terms:
+  - type: rep
+    state: AL
+    district: 025
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1061_38651
+    MBR_ID: 1061
+    UNIQUEMBRID: 38651
+  name:
+    first: Kerry
+    last: Rich
+  terms:
+  - type: rep
+    state: AL
+    district: 026
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1062_46671
+    MBR_ID: 1062
+    UNIQUEMBRID: 46671
+  name:
+    first: Wes
+    last: Kitchens
+  terms:
+  - type: rep
+    state: AL
+    district: 027
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1063_46672
+    MBR_ID: 1063
+    UNIQUEMBRID: 46672
+  name:
+    first: Gil
+    last: Isbell
+  terms:
+  - type: rep
+    state: AL
+    district: 028
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1064_-38657
+    MBR_ID: 1064
+    UNIQUEMBRID: -38657
+  name:
+    first: 
+    last: 
+  terms:
+  - type: rep
+    state: AL
+    district: 029
+    party: Independent
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1065_46673
+    MBR_ID: 1065
+    UNIQUEMBRID: 46673
+  name:
+    first: Craig
+    last: Lipscomb
+  terms:
+  - type: rep
+    state: AL
+    district: 030
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1066_42509
+    MBR_ID: 1066
+    UNIQUEMBRID: 42509
+  name:
+    first: Mike
+    last: Holmes
+  terms:
+  - type: rep
+    state: AL
+    district: 031
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1067_20067
+    MBR_ID: 1067
+    UNIQUEMBRID: 20067
+  name:
+    first: Barbara B.
+    last: Boyd
+  terms:
+  - type: rep
+    state: AL
+    district: 032
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1068_49580
+    MBR_ID: 1068
+    UNIQUEMBRID: 49580
+  name:
+    first: Ben
+    last: Robbins
+  terms:
+  - type: rep
+    state: AL
+    district: 033
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1069_42323
+    MBR_ID: 1069
+    UNIQUEMBRID: 42323
+  name:
+    first: David
+    last: Standridge
+  terms:
+  - type: rep
+    state: AL
+    district: 034
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1070_27834
+    MBR_ID: 1070
+    UNIQUEMBRID: 27834
+  name:
+    first: Steve
+    last: Hurst
+  terms:
+  - type: rep
+    state: AL
+    district: 035
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1071_31139
+    MBR_ID: 1071
+    UNIQUEMBRID: 31139
+  name:
+    first: Randy
+    last: Wood
+  terms:
+  - type: rep
+    state: AL
+    district: 036
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1072_43999
+    MBR_ID: 1072
+    UNIQUEMBRID: 43999
+  name:
+    first: Bob
+    last: Fincher
+  terms:
+  - type: rep
+    state: AL
+    district: 037
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1073_46674
+    MBR_ID: 1073
+    UNIQUEMBRID: 46674
+  name:
+    first: Debbie
+    last: Wood
+  terms:
+  - type: rep
+    state: AL
+    district: 038
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1074_46675
+    MBR_ID: 1074
+    UNIQUEMBRID: 46675
+  name:
+    first: Ginny
+    last: Shaver
+  terms:
+  - type: rep
+    state: AL
+    district: 039
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1075_38448
+    MBR_ID: 1075
+    UNIQUEMBRID: 38448
+  name:
+    first: K.L.
+    last: Brown
+  terms:
+  - type: rep
+    state: AL
+    district: 040
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1076_44639
+    MBR_ID: 1076
+    UNIQUEMBRID: 44639
+  name:
+    first: Frank Corley
+    last: Ellis
+  terms:
+  - type: rep
+    state: AL
+    district: 041
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1077_48300
+    MBR_ID: 1077
+    UNIQUEMBRID: 48300
+  name:
+    first: Ivan
+    last: Smith
+  terms:
+  - type: rep
+    state: AL
+    district: 042
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1078_44002
+    MBR_ID: 1078
+    UNIQUEMBRID: 44002
+  name:
+    first: Arnold
+    last: Mooney
+  terms:
+  - type: rep
+    state: AL
+    district: 043
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1079_44003
+    MBR_ID: 1079
+    UNIQUEMBRID: 44003
+  name:
+    first: Danny
+    last: Garrett
+  terms:
+  - type: rep
+    state: AL
+    district: 044
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1080_40403
+    MBR_ID: 1080
+    UNIQUEMBRID: 40403
+  name:
+    first: Richard
+    last: Drake
+  terms:
+  - type: rep
+    state: AL
+    district: 045
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1081_44004
+    MBR_ID: 1081
+    UNIQUEMBRID: 44004
+  name:
+    first: David
+    last: Faulkner
+  terms:
+  - type: rep
+    state: AL
+    district: 046
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1082_46676
+    MBR_ID: 1082
+    UNIQUEMBRID: 46676
+  name:
+    first: David
+    last: Wheeler
+  terms:
+  - type: rep
+    state: AL
+    district: 047
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1083_40573
+    MBR_ID: 1083
+    UNIQUEMBRID: 40573
+  name:
+    first: Jim
+    last: Carns
+  terms:
+  - type: rep
+    state: AL
+    district: 048
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1084_49440
+    MBR_ID: 1084
+    UNIQUEMBRID: 49440
+  name:
+    first: Russell
+    last: Bedsole
+  terms:
+  - type: rep
+    state: AL
+    district: 049
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1085_44005
+    MBR_ID: 1085
+    UNIQUEMBRID: 44005
+  name:
+    first: Jim
+    last: Hill
+  terms:
+  - type: rep
+    state: AL
+    district: 050
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1086_35250
+    MBR_ID: 1086
+    UNIQUEMBRID: 35250
+  name:
+    first: Allen
+    last: Treadaway
+  terms:
+  - type: rep
+    state: AL
+    district: 051
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1087_20087
+    MBR_ID: 1087
+    UNIQUEMBRID: 20087
+  name:
+    first: John W.
+    last: Rogers
+  terms:
+  - type: rep
+    state: AL
+    district: 052
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1088_44006
+    MBR_ID: 1088
+    UNIQUEMBRID: 44006
+  name:
+    first: Anthony
+    last: Daniels
+  terms:
+  - type: rep
+    state: AL
+    district: 053
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1089_46677
+    MBR_ID: 1089
+    UNIQUEMBRID: 46677
+  name:
+    first: Neil
+    last: Rafferty
+  terms:
+  - type: rep
+    state: AL
+    district: 054
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1090_35252
+    MBR_ID: 1090
+    UNIQUEMBRID: 35252
+  name:
+    first: Roderick Hampton
+    last: Scott
+  terms:
+  - type: rep
+    state: AL
+    district: 055
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1091_44007
+    MBR_ID: 1091
+    UNIQUEMBRID: 44007
+  name:
+    first: Louise
+    last: Alexander
+  terms:
+  - type: rep
+    state: AL
+    district: 056
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1092_31149
+    MBR_ID: 1092
+    UNIQUEMBRID: 31149
+  name:
+    first: Merika
+    last: Coleman
+  terms:
+  - type: rep
+    state: AL
+    district: 057
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1093_46113
+    MBR_ID: 1093
+    UNIQUEMBRID: 46113
+  name:
+    first: Rolanda
+    last: Hollis
+  terms:
+  - type: rep
+    state: AL
+    district: 058
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1094_31150
+    MBR_ID: 1094
+    UNIQUEMBRID: 31150
+  name:
+    first: Mary
+    last: Moore
+  terms:
+  - type: rep
+    state: AL
+    district: 059
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1095_38667
+    MBR_ID: 1095
+    UNIQUEMBRID: 38667
+  name:
+    first: Juandalynn Deleathia
+    last: Givan
+  terms:
+  - type: rep
+    state: AL
+    district: 060
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1096_46678
+    MBR_ID: 1096
+    UNIQUEMBRID: 46678
+  name:
+    first: Rodney
+    last: Sullivan
+  terms:
+  - type: rep
+    state: AL
+    district: 061
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1097_44008
+    MBR_ID: 1097
+    UNIQUEMBRID: 44008
+  name:
+    first: Rich
+    last: Wingo
+  terms:
+  - type: rep
+    state: AL
+    district: 062
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1098_49648
+    MBR_ID: 1098
+    UNIQUEMBRID: 49648
+  name:
+    first: Cynthia
+    last: Almond
+  terms:
+  - type: rep
+    state: AL
+    district: 063
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1099_35255
+    MBR_ID: 1099
+    UNIQUEMBRID: 35255
+  name:
+    first: Harry
+    last: Shiver
+  terms:
+  - type: rep
+    state: AL
+    district: 064
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: CUSTOM_1100_46679
+    MBR_ID: 1100
+    UNIQUEMBRID: 46679
+  name:
+    first: Brett
+    last: Easterbrook
+  terms:
+  - type: rep
+    state: AL
+    district: 065
+    party: Republican
+    contact_form: 
