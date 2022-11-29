@@ -7,6 +7,7 @@
     last: Melson
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 001
     party: Republican
@@ -20,6 +21,7 @@
     last: Butler
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 002
     party: Republican
@@ -33,6 +35,7 @@
     last: Orr
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 003
     party: Republican
@@ -46,6 +49,7 @@
     last: Gudger
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 004
     party: Republican
@@ -59,6 +63,7 @@
     last: Reed
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 005
     party: Republican
@@ -72,6 +77,7 @@
     last: Stutts
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 006
     party: Republican
@@ -85,6 +91,7 @@
     last: Givhan
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 007
     party: Republican
@@ -98,6 +105,7 @@
     last: Livingston
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 008
     party: Republican
@@ -111,6 +119,7 @@
     last: Scofield
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 009
     party: Republican
@@ -124,6 +133,7 @@
     last: Jones
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 010
     party: Republican
@@ -137,6 +147,7 @@
     last: McClendon
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 011
     party: Republican
@@ -150,6 +161,7 @@
     last: Marsh
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 012
     party: Republican
@@ -163,6 +175,7 @@
     last: Price
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 013
     party: Republican
@@ -176,6 +189,7 @@
     last: Weaver
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 014
     party: Republican
@@ -189,6 +203,7 @@
     last: Roberts
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 015
     party: Republican
@@ -202,6 +217,7 @@
     last: Waggoner
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 016
     party: Republican
@@ -215,6 +231,7 @@
     last: Shelnutt
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 017
     party: Republican
@@ -228,6 +245,7 @@
     last: Smitherman
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 018
     party: Democrat
@@ -241,6 +259,7 @@
     last: Dunn
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 019
     party: Democrat
@@ -254,6 +273,7 @@
     last: Coleman-Madison
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 020
     party: Democrat
@@ -267,6 +287,7 @@
     last: Allen
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 021
     party: Republican
@@ -280,6 +301,7 @@
     last: Albritton
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 022
     party: Republican
@@ -293,6 +315,7 @@
     last: Sanders-Fortier
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 023
     party: Democrat
@@ -306,6 +329,7 @@
     last: Singleton
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 024
     party: Democrat
@@ -319,6 +343,7 @@
     last: Barfoot
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 025
     party: Republican
@@ -332,6 +357,7 @@
     last: Hatcher
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 026
     party: Democrat
@@ -345,6 +371,7 @@
     last: Whatley
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 027
     party: Republican
@@ -358,6 +385,7 @@
     last: Beasley
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 028
     party: Democrat
@@ -371,6 +399,7 @@
     last: Chesteen
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 029
     party: Republican
@@ -384,6 +413,7 @@
     last: Chambliss
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 030
     party: Republican
@@ -397,6 +427,7 @@
     last: Holley
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 031
     party: Republican
@@ -410,6 +441,7 @@
     last: Elliott
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 032
     party: Republican
@@ -423,6 +455,7 @@
     last: Figures
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 033
     party: Democrat
@@ -436,6 +469,7 @@
     last: Williams
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 034
     party: Republican
@@ -449,6 +483,7 @@
     last: Sessions
   terms:
   - type: sen
+    class: 1
     state: AL
     district: 035
     party: Republican
