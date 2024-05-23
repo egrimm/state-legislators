@@ -1,4 +1,18 @@
 - id:
+    bioguide: H001062
+    MBR_ID: 9032
+    UNIQUEMBRID: 43848
+  name:
+    first: Kathy
+    last: Hochul
+  terms:
+  - type: rep
+    state: NY
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
     bioguide: CUSTOM_1001_43984
     MBR_ID: 1001
     UNIQUEMBRID: 43984
