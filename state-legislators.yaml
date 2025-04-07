@@ -12,3 +12,17 @@
     district: 000
     party: Democrat
     contact_form: 
+- id:
+    bioguide: SSB38530
+    MBR_ID: 1914
+    UNIQUEMBRID: 38530
+  name:
+    first: Jim
+    last: Boyd
+  terms:
+  - type: sen
+    state: FL
+    class: 
+    district: 020
+    party: Republican
+    contact_form: 
