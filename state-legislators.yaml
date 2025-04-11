@@ -26,3 +26,31 @@
     district: 020
     party: Republican
     contact_form: 
+- id:
+    bioguide: SHT42816
+    MBR_ID: 7415
+    UNIQUEMBRID: 42816
+  name:
+    first: Tony
+    last: Tinderholt
+  terms:
+  - type: rep
+    state: TX
+    class: 
+    district: 094
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: SSH45668
+    MBR_ID: 7291
+    UNIQUEMBRID: 45668
+  name:
+    first: Bryan
+    last: Hughes
+  terms:
+  - type: sen
+    state: TX
+    class: 1
+    district: 001
+    party: Republican
+    contact_form: 
