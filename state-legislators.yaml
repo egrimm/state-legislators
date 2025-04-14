@@ -103066,3 +103066,2691 @@
     district: 062
     party: Republican
     contact_form:
+- id:
+    bioguide: B001310
+    MBR_ID: 9014
+    UNIQUEMBRID: 43444
+  name:
+    first: Mike
+    last: Braun
+  terms:
+  - type: gov
+    state: IN
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: B001304
+    MBR_ID: 9220
+    UNIQUEMBRID: 1156
+  name:
+    first: Anthony G.
+    last: Brown
+  terms:
+  - type: atty gen
+    state: MD
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: G000584
+    MBR_ID: 9026
+    UNIQUEMBRID: 1178
+  name:
+    first: Greg
+    last: Gianforte
+  terms:
+  - type: gov
+    state: MT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: A000377
+    MBR_ID: 9034
+    UNIQUEMBRID: 40967
+  name:
+    first: Kelly
+    last: Armstrong
+  terms:
+  - type: gov
+    state: ND
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: H001064
+    MBR_ID: 9147
+    UNIQUEMBRID: 1001
+  name:
+    first: Denny
+    last: Heck
+  terms:
+  - type: lt gov
+    state: WA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: H001062
+    MBR_ID: 9032
+    UNIQUEMBRID: 43848
+  name:
+    first: Kathy
+    last: Hochul
+  terms:
+  - type: gov
+    state: NY
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: J000308
+    MBR_ID: 9233
+    UNIQUEMBRID: 42567
+  name:
+    first: Jeff
+    last: Jackson
+  terms:
+  - type: atty gen
+    state: NC
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: V000137
+    MBR_ID: 9401
+    UNIQUEMBRID: 1347
+  name:
+    first: James David
+    last: Vance
+  terms:
+  - type: atty gen
+    state: 
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EDEGM52790
+    MBR_ID: 9008
+    UNIQUEMBRID: 52790
+  name:
+    first: Matt
+    last: Meyer
+  terms:
+  - type: gov
+    state: DE
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ETXGA32446
+    MBR_ID: 9043
+    UNIQUEMBRID: 32446
+  name:
+    first: Greg
+    last: Abbott
+  terms:
+  - type: gov
+    state: TX
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EIDGL38251
+    MBR_ID: 9012
+    UNIQUEMBRID: 38251
+  name:
+    first: Brad
+    last: Little
+  terms:
+  - type: gov
+    state: ID
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EARST46415
+    MBR_ID: 9304
+    UNIQUEMBRID: 46415
+  name:
+    first: John
+    last: Thurston
+  terms:
+  - type: sec state
+    state: AR
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EIDLB30717
+    MBR_ID: 9112
+    UNIQUEMBRID: 30717
+  name:
+    first: Scott
+    last: Bedke
+  terms:
+  - type: lt gov
+    state: ID
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECTLB46421
+    MBR_ID: 9107
+    UNIQUEMBRID: 46421
+  name:
+    first: Susan
+    last: Bysiewicz
+  terms:
+  - type: lt gov
+    state: CT
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENDSH44812
+    MBR_ID: 9334
+    UNIQUEMBRID: 44812
+  name:
+    first: Michael
+    last: Howe
+  terms:
+  - type: sec state
+    state: ND
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENJAP49787
+    MBR_ID: 9230
+    UNIQUEMBRID: 49787
+  name:
+    first: Matthew J.
+    last: Platkin
+  terms:
+  - type: atty gen
+    state: NJ
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EVAGY49738
+    MBR_ID: 9046
+    UNIQUEMBRID: 49738
+  name:
+    first: Glenn
+    last: Youngkin
+  terms:
+  - type: gov
+    state: VA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ETXAP32426
+    MBR_ID: 9243
+    UNIQUEMBRID: 32426
+  name:
+    first: Ken
+    last: Paxton
+  terms:
+  - type: atty gen
+    state: TX
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWVAM52784
+    MBR_ID: 9248
+    UNIQUEMBRID: 52784
+  name:
+    first: John
+    last: McCuskey
+  terms:
+  - type: atty gen
+    state: WV
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EOHAY47268
+    MBR_ID: 9235
+    UNIQUEMBRID: 47268
+  name:
+    first: Dave
+    last: Yost
+  terms:
+  - type: atty gen
+    state: OH
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EHILL28127
+    MBR_ID: 9111
+    UNIQUEMBRID: 28127
+  name:
+    first: Sylvia J.
+    last: Luke
+  terms:
+  - type: lt gov
+    state: HI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMEAF40693
+    MBR_ID: 9219
+    UNIQUEMBRID: 40693
+  name:
+    first: Aaron
+    last: Frey
+  terms:
+  - type: atty gen
+    state: ME
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMOLW52787
+    MBR_ID: 9125
+    UNIQUEMBRID: 52787
+  name:
+    first: Dave
+    last: Wasinger
+  terms:
+  - type: lt gov
+    state: MO
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EHIAL51536
+    MBR_ID: 9211
+    UNIQUEMBRID: 51536
+  name:
+    first: Anne
+    last: Lopez
+  terms:
+  - type: atty gen
+    state: HI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMNSS33583
+    MBR_ID: 9323
+    UNIQUEMBRID: 33583
+  name:
+    first: Steve
+    last: Simon
+  terms:
+  - type: sec state
+    state: MN
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EIDSM50626
+    MBR_ID: 9312
+    UNIQUEMBRID: 50626
+  name:
+    first: Phil
+    last: McGrane
+  terms:
+  - type: sec state
+    state: ID
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMSLH36920
+    MBR_ID: 9124
+    UNIQUEMBRID: 36920
+  name:
+    first: Delbert
+    last: Hosemann
+  terms:
+  - type: lt gov
+    state: MS
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EKSLT49644
+    MBR_ID: 9116
+    UNIQUEMBRID: 49644
+  name:
+    first: David
+    last: Toland
+  terms:
+  - type: lt gov
+    state: KS
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EILSG50935
+    MBR_ID: 9313
+    UNIQUEMBRID: 50935
+  name:
+    first: Alexi
+    last: Giannoulias
+  terms:
+  - type: sec state
+    state: IL
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ECTST48519
+    MBR_ID: 9307
+    UNIQUEMBRID: 48519
+  name:
+    first: Stephanie
+    last: Thomas
+  terms:
+  - type: sec state
+    state: CT
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENHSS49790
+    MBR_ID: 9329
+    UNIQUEMBRID: 49790
+  name:
+    first: David
+    last: Scanlan
+  terms:
+  - type: sec state
+    state: NH
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EIAGR37862
+    MBR_ID: 9015
+    UNIQUEMBRID: 37862
+  name:
+    first: Kim
+    last: Reynolds
+  terms:
+  - type: gov
+    state: IA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMDLM40020
+    MBR_ID: 9120
+    UNIQUEMBRID: 40020
+  name:
+    first: Aruna
+    last: Miller
+  terms:
+  - type: lt gov
+    state: MD
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ERILM49647
+    MBR_ID: 9139
+    UNIQUEMBRID: 49647
+  name:
+    first: Sabina
+    last: Matos
+  terms:
+  - type: lt gov
+    state: RI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EKSGK33477
+    MBR_ID: 9016
+    UNIQUEMBRID: 33477
+  name:
+    first: Laura
+    last: Kelly
+  terms:
+  - type: gov
+    state: KS
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ECOAW46418
+    MBR_ID: 9206
+    UNIQUEMBRID: 46418
+  name:
+    first: Phil
+    last: Weiser
+  terms:
+  - type: atty gen
+    state: CO
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EFLSB44695
+    MBR_ID: 9309
+    UNIQUEMBRID: 44695
+  name:
+    first: Cord
+    last: Byrd
+  terms:
+  - type: sec state
+    state: FL
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EHIGG38211
+    MBR_ID: 9011
+    UNIQUEMBRID: 38211
+  name:
+    first: Joshua B.
+    last: Green
+  terms:
+  - type: gov
+    state: HI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EOKGS47214
+    MBR_ID: 9036
+    UNIQUEMBRID: 47214
+  name:
+    first: Kevin
+    last: Stitt
+  terms:
+  - type: gov
+    state: OK
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMALD50268
+    MBR_ID: 9121
+    UNIQUEMBRID: 50268
+  name:
+    first: Kimberley
+    last: Driscoll
+  terms:
+  - type: lt gov
+    state: MA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMEGM42396
+    MBR_ID: 9019
+    UNIQUEMBRID: 42396
+  name:
+    first: Janet
+    last: Mills
+  terms:
+  - type: gov
+    state: ME
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ESCLE47217
+    MBR_ID: 9140
+    UNIQUEMBRID: 47217
+  name:
+    first: Pamela
+    last: Evette
+  terms:
+  - type: lt gov
+    state: SC
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EAZSF50489
+    MBR_ID: 9303
+    UNIQUEMBRID: 50489
+  name:
+    first: Adrian
+    last: Fontes
+  terms:
+  - type: sec state
+    state: AZ
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EKSSS37044
+    MBR_ID: 9316
+    UNIQUEMBRID: 37044
+  name:
+    first: Scott
+    last: Schwab
+  terms:
+  - type: sec state
+    state: KS
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EGAGK38441
+    MBR_ID: 9010
+    UNIQUEMBRID: 38441
+  name:
+    first: Brian
+    last: Kemp
+  terms:
+  - type: gov
+    state: GA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMSSW36898
+    MBR_ID: 9324
+    UNIQUEMBRID: 36898
+  name:
+    first: Michael
+    last: Watson
+  terms:
+  - type: sec state
+    state: MS
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EDESB38435
+    MBR_ID: 9308
+    UNIQUEMBRID: 38435
+  name:
+    first: Jeffrey W.
+    last: Bullock
+  terms:
+  - type: sec state
+    state: DE
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EVASG51568
+    MBR_ID: 9346
+    UNIQUEMBRID: 51568
+  name:
+    first: Kelly
+    last: Gee
+  terms:
+  - type: sec state
+    state: VA
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENDLS46874
+    MBR_ID: 9134
+    UNIQUEMBRID: 46874
+  name:
+    first: Michelle
+    last: Strinden
+  terms:
+  - type: lt gov
+    state: ND
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMAGH43983
+    MBR_ID: 9021
+    UNIQUEMBRID: 43983
+  name:
+    first: Maura
+    last: Healey
+  terms:
+  - type: gov
+    state: MA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EWYGG47303
+    MBR_ID: 9050
+    UNIQUEMBRID: 47303
+  name:
+    first: Mark
+    last: Gordon
+  terms:
+  - type: gov
+    state: WY
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMNGW797
+    MBR_ID: 9023
+    UNIQUEMBRID: 797
+  name:
+    first: Timothy J.
+    last: Walz
+  terms:
+  - type: gov
+    state: MN
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EUTAB52782
+    MBR_ID: 9244
+    UNIQUEMBRID: 52782
+  name:
+    first: Derek
+    last: Brown
+  terms:
+  - type: atty gen
+    state: UT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EIAAB50669
+    MBR_ID: 9215
+    UNIQUEMBRID: 50669
+  name:
+    first: Brenna
+    last: Bird
+  terms:
+  - type: atty gen
+    state: IA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENVSA51359
+    MBR_ID: 9328
+    UNIQUEMBRID: 51359
+  name:
+    first: Francisco
+    last: Aguilar
+  terms:
+  - type: sec state
+    state: NV
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EILAR34680
+    MBR_ID: 9213
+    UNIQUEMBRID: 34680
+  name:
+    first: Kwame
+    last: Raoul
+  terms:
+  - type: atty gen
+    state: IL
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ETNAS51537
+    MBR_ID: 9242
+    UNIQUEMBRID: 51537
+  name:
+    first: Jonathan
+    last: Skrmetti
+  terms:
+  - type: atty gen
+    state: TN
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENJLW46278
+    MBR_ID: 9130
+    UNIQUEMBRID: 46278
+  name:
+    first: Tahesha
+    last: Way
+  terms:
+  - type: lt gov
+    state: NJ
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EGALJ41266
+    MBR_ID: 9110
+    UNIQUEMBRID: 41266
+  name:
+    first: Burt
+    last: Jones
+  terms:
+  - type: lt gov
+    state: GA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENYAJ47266
+    MBR_ID: 9232
+    UNIQUEMBRID: 47266
+  name:
+    first: Letitia
+    last: James
+  terms:
+  - type: atty gen
+    state: NY
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENELK50300
+    MBR_ID: 9127
+    UNIQUEMBRID: 50300
+  name:
+    first: Joe
+    last: Kelly
+  terms:
+  - type: lt gov
+    state: NE
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENVAF40791
+    MBR_ID: 9228
+    UNIQUEMBRID: 40791
+  name:
+    first: Aaron
+    last: Ford
+  terms:
+  - type: atty gen
+    state: NV
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ETXSN26327
+    MBR_ID: 9343
+    UNIQUEMBRID: 26327
+  name:
+    first: Jane
+    last: Nelson
+  terms:
+  - type: sec state
+    state: TX
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENYSM42188
+    MBR_ID: 9332
+    UNIQUEMBRID: 42188
+  name:
+    first: Walter
+    last: Mosley
+  terms:
+  - type: sec state
+    state: NY
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EWYSG45013
+    MBR_ID: 9350
+    UNIQUEMBRID: 45013
+  name:
+    first: Chuck
+    last: Gray
+  terms:
+  - type: sec state
+    state: WY
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECOLP46416
+    MBR_ID: 9106
+    UNIQUEMBRID: 46416
+  name:
+    first: Dianne
+    last: Primavera
+  terms:
+  - type: lt gov
+    state: CO
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EWVSW52785
+    MBR_ID: 9348
+    UNIQUEMBRID: 52785
+  name:
+    first: Kris
+    last: Warner
+  terms:
+  - type: sec state
+    state: WV
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ELALN44495
+    MBR_ID: 9118
+    UNIQUEMBRID: 44495
+  name:
+    first: Billy
+    last: Nungesser
+  terms:
+  - type: lt gov
+    state: LA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECASW40937
+    MBR_ID: 9305
+    UNIQUEMBRID: 40937
+  name:
+    first: Shirley
+    last: Weber
+  terms:
+  - type: sec state
+    state: CA
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EOHSL39277
+    MBR_ID: 9335
+    UNIQUEMBRID: 39277
+  name:
+    first: Frank
+    last: LaRose
+  terms:
+  - type: sec state
+    state: OH
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECOGP863
+    MBR_ID: 9006
+    UNIQUEMBRID: 863
+  name:
+    first: Jared
+    last: Polis
+  terms:
+  - type: gov
+    state: CO
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ECAAB40900
+    MBR_ID: 9205
+    UNIQUEMBRID: 40900
+  name:
+    first: Rob
+    last: Bonta
+  terms:
+  - type: atty gen
+    state: CA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EVTSC45228
+    MBR_ID: 9345
+    UNIQUEMBRID: 45228
+  name:
+    first: Sarah
+    last: Copeland Hanzas
+  terms:
+  - type: sec state
+    state: VT
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ESDGR45571
+    MBR_ID: 9041
+    UNIQUEMBRID: 45571
+  name:
+    first: Larry
+    last: Rhoden
+  terms:
+  - type: gov
+    state: SD
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMISB47243
+    MBR_ID: 9322
+    UNIQUEMBRID: 47243
+  name:
+    first: Jocelyn
+    last: Benson
+  terms:
+  - type: sec state
+    state: MI
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENCGS45763
+    MBR_ID: 9033
+    UNIQUEMBRID: 45763
+  name:
+    first: Josh
+    last: Stein
+  terms:
+  - type: gov
+    state: NC
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EOHGD39271
+    MBR_ID: 9035
+    UNIQUEMBRID: 39271
+  name:
+    first: Michael
+    last: DeWine
+  terms:
+  - type: gov
+    state: OH
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ESCSH32633
+    MBR_ID: 9340
+    UNIQUEMBRID: 32633
+  name:
+    first: Mark
+    last: Hammond
+  terms:
+  - type: sec state
+    state: SC
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWVGM42225
+    MBR_ID: 9048
+    UNIQUEMBRID: 42225
+  name:
+    first: Patrick
+    last: Morrisey
+  terms:
+  - type: gov
+    state: WV
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EAKLD51356
+    MBR_ID: 9102
+    UNIQUEMBRID: 51356
+  name:
+    first: Nancy
+    last: Dahlstrom
+  terms:
+  - type: lt gov
+    state: AK
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EVTAC50429
+    MBR_ID: 9245
+    UNIQUEMBRID: 50429
+  name:
+    first: Charity
+    last: Clark
+  terms:
+  - type: atty gen
+    state: VT
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EVALE49739
+    MBR_ID: 9146
+    UNIQUEMBRID: 49739
+  name:
+    first: Winsome
+    last: Earle-Sears
+  terms:
+  - type: lt gov
+    state: VA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EAZAM51454
+    MBR_ID: 9203
+    UNIQUEMBRID: 51454
+  name:
+    first: Kris
+    last: Mayes
+  terms:
+  - type: atty gen
+    state: AZ
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EIDAL35304
+    MBR_ID: 9212
+    UNIQUEMBRID: 35304
+  name:
+    first: Raúl R.
+    last: Labrador
+  terms:
+  - type: atty gen
+    state: ID
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EAKGD41069
+    MBR_ID: 9002
+    UNIQUEMBRID: 41069
+  name:
+    first: Mike
+    last: Dunleavy
+  terms:
+  - type: gov
+    state: AK
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMDGM50993
+    MBR_ID: 9020
+    UNIQUEMBRID: 50993
+  name:
+    first: Wes
+    last: Moore
+  terms:
+  - type: gov
+    state: MD
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ERIAN47269
+    MBR_ID: 9239
+    UNIQUEMBRID: 47269
+  name:
+    first: Peter
+    last: Neronha
+  terms:
+  - type: atty gen
+    state: RI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EILGP47220
+    MBR_ID: 9013
+    UNIQUEMBRID: 47220
+  name:
+    first: Jay
+    last: Pritzker
+  terms:
+  - type: gov
+    state: IL
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EWYAH48394
+    MBR_ID: 9250
+    UNIQUEMBRID: 48394
+  name:
+    first: Bridget
+    last: Hill
+  terms:
+  - type: atty gen
+    state: WY
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ERISA41610
+    MBR_ID: 9339
+    UNIQUEMBRID: 41610
+  name:
+    first: Gregg
+    last: Amore
+  terms:
+  - type: sec state
+    state: RI
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ECAGN38894
+    MBR_ID: 9005
+    UNIQUEMBRID: 38894
+  name:
+    first: Gavin
+    last: Newsom
+  terms:
+  - type: gov
+    state: CA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EKYLC48234
+    MBR_ID: 9117
+    UNIQUEMBRID: 48234
+  name:
+    first: Jaqueline
+    last: Coleman
+  terms:
+  - type: lt gov
+    state: KY
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ESDLV50819
+    MBR_ID: 9141
+    UNIQUEMBRID: 50819
+  name:
+    first: Tony
+    last: Venhuizen
+  terms:
+  - type: lt gov
+    state: SD
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWAAB52788
+    MBR_ID: 9247
+    UNIQUEMBRID: 52788
+  name:
+    first: Nick
+    last: Brown
+  terms:
+  - type: atty gen
+    state: WA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EKYAC51775
+    MBR_ID: 9217
+    UNIQUEMBRID: 51775
+  name:
+    first: Russell
+    last: Coleman
+  terms:
+  - type: atty gen
+    state: KY
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ESCAW39063
+    MBR_ID: 9240
+    UNIQUEMBRID: 39063
+  name:
+    first: Alan
+    last: Wilson
+  terms:
+  - type: atty gen
+    state: SC
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EPASS51506
+    MBR_ID: 9338
+    UNIQUEMBRID: 51506
+  name:
+    first: Al
+    last: Schmidt
+  terms:
+  - type: sec state
+    state: PA
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ELAGL44496
+    MBR_ID: 9018
+    UNIQUEMBRID: 44496
+  name:
+    first: Jeff
+    last: Landry
+  terms:
+  - type: gov
+    state: LA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMOSH45277
+    MBR_ID: 9325
+    UNIQUEMBRID: 45277
+  name:
+    first: Denny
+    last: Hoskins
+  terms:
+  - type: sec state
+    state: MO
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMTLJ49004
+    MBR_ID: 9126
+    UNIQUEMBRID: 49004
+  name:
+    first: Kristen
+    last: Juras
+  terms:
+  - type: lt gov
+    state: MT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENMST44676
+    MBR_ID: 9331
+    UNIQUEMBRID: 44676
+  name:
+    first: Maggie
+    last: Toulouse Oliver
+  terms:
+  - type: sec state
+    state: NM
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENHAF49645
+    MBR_ID: 9229
+    UNIQUEMBRID: 49645
+  name:
+    first: John
+    last: Formella
+  terms:
+  - type: atty gen
+    state: NH
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EINAR32634
+    MBR_ID: 9214
+    UNIQUEMBRID: 32634
+  name:
+    first: Todd
+    last: Rokita
+  terms:
+  - type: atty gen
+    state: IN
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EKYGB44430
+    MBR_ID: 9017
+    UNIQUEMBRID: 44430
+  name:
+    first: Andy
+    last: Beshear
+  terms:
+  - type: gov
+    state: KY
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENDAW49791
+    MBR_ID: 9234
+    UNIQUEMBRID: 49791
+  name:
+    first: Drew
+    last: Wrigley
+  terms:
+  - type: atty gen
+    state: ND
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECTGL46419
+    MBR_ID: 9007
+    UNIQUEMBRID: 46419
+  name:
+    first: Edward Miner
+    last: Lamont
+  terms:
+  - type: gov
+    state: CT
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENVGL51357
+    MBR_ID: 9028
+    UNIQUEMBRID: 51357
+  name:
+    first: Joe
+    last: Lombardo
+  terms:
+  - type: gov
+    state: NV
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EFLLN38545
+    MBR_ID: 9109
+    UNIQUEMBRID: 38545
+  name:
+    first: Jeanette
+    last: Nuñez
+  terms:
+  - type: lt gov
+    state: FL
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EUTLH41350
+    MBR_ID: 9144
+    UNIQUEMBRID: 41350
+  name:
+    first: Deidre
+    last: Henderson
+  terms:
+  - type: lt gov
+    state: UT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWIAK47301
+    MBR_ID: 9249
+    UNIQUEMBRID: 47301
+  name:
+    first: Josh
+    last: Kaul
+  terms:
+  - type: atty gen
+    state: WI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EARAG895
+    MBR_ID: 9204
+    UNIQUEMBRID: 895
+  name:
+    first: Tim
+    last: Griffin
+  terms:
+  - type: atty gen
+    state: AR
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ETNGL47272
+    MBR_ID: 9042
+    UNIQUEMBRID: 47272
+  name:
+    first: Bill
+    last: Lee
+  terms:
+  - type: gov
+    state: TN
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EPALD46288
+    MBR_ID: 9138
+    UNIQUEMBRID: 46288
+  name:
+    first: Austin
+    last: Davis
+  terms:
+  - type: lt gov
+    state: PA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMAAC50269
+    MBR_ID: 9221
+    UNIQUEMBRID: 50269
+  name:
+    first: Andrea
+    last: Campbell
+  terms:
+  - type: atty gen
+    state: MA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMDSL30979
+    MBR_ID: 9320
+    UNIQUEMBRID: 30979
+  name:
+    first: Susan C.
+    last: Lee
+  terms:
+  - type: sec state
+    state: MD
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMASG27590
+    MBR_ID: 9321
+    UNIQUEMBRID: 27590
+  name:
+    first: William Francis
+    last: Galvin
+  terms:
+  - type: sec state
+    state: MA
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ERIGM42936
+    MBR_ID: 9039
+    UNIQUEMBRID: 42936
+  name:
+    first: Daniel
+    last: McKee
+  terms:
+  - type: gov
+    state: RI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EVTGS30444
+    MBR_ID: 9045
+    UNIQUEMBRID: 30444
+  name:
+    first: Philip B.
+    last: Scott
+  terms:
+  - type: gov
+    state: VT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EOKLP47215
+    MBR_ID: 9136
+    UNIQUEMBRID: 47215
+  name:
+    first: Matt
+    last: Pinnell
+  terms:
+  - type: lt gov
+    state: OK
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMSAF48237
+    MBR_ID: 9224
+    UNIQUEMBRID: 48237
+  name:
+    first: Lynn
+    last: Fitch
+  terms:
+  - type: atty gen
+    state: MS
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EORAR43019
+    MBR_ID: 9237
+    UNIQUEMBRID: 43019
+  name:
+    first: Daniel
+    last: Rayfield
+  terms:
+  - type: atty gen
+    state: OR
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EORSR52791
+    MBR_ID: 9337
+    UNIQUEMBRID: 52791
+  name:
+    first: Tobias
+    last: Read
+  terms:
+  - type: sec state
+    state: OR
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EFLAU52977
+    MBR_ID: 9209
+    UNIQUEMBRID: 52977
+  name:
+    first: James
+    last: Uthmeier
+  terms:
+  - type: atty gen
+    state: FL
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ETXLP35101
+    MBR_ID: 9143
+    UNIQUEMBRID: 35101
+  name:
+    first: Dan
+    last: Patrick
+  terms:
+  - type: lt gov
+    state: TX
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EALAM46099
+    MBR_ID: 9201
+    UNIQUEMBRID: 46099
+  name:
+    first: Steve
+    last: Marshall
+  terms:
+  - type: atty gen
+    state: AL
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ESDSJ50793
+    MBR_ID: 9341
+    UNIQUEMBRID: 50793
+  name:
+    first: Monae
+    last: Johnson
+  terms:
+  - type: sec state
+    state: SD
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EALLA43998
+    MBR_ID: 9101
+    UNIQUEMBRID: 43998
+  name:
+    first: Will
+    last: Ainsworth
+  terms:
+  - type: lt gov
+    state: AL
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ESDAJ38436
+    MBR_ID: 9241
+    UNIQUEMBRID: 38436
+  name:
+    first: Marty
+    last: Jackley
+  terms:
+  - type: atty gen
+    state: SD
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EARGS50527
+    MBR_ID: 9004
+    UNIQUEMBRID: 50527
+  name:
+    first: Sarah Huckabee
+    last: Sanders
+  terms:
+  - type: gov
+    state: AR
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMOGK39856
+    MBR_ID: 9025
+    UNIQUEMBRID: 39856
+  name:
+    first: Mike
+    last: Kehoe
+  terms:
+  - type: gov
+    state: MO
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EDEAJ46422
+    MBR_ID: 9208
+    UNIQUEMBRID: 46422
+  name:
+    first: Kathleen
+    last: Jennings
+  terms:
+  - type: atty gen
+    state: DE
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EORGK36412
+    MBR_ID: 9037
+    UNIQUEMBRID: 36412
+  name:
+    first: Tina
+    last: Kotek
+  terms:
+  - type: gov
+    state: OR
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EWIGE47298
+    MBR_ID: 9049
+    UNIQUEMBRID: 47298
+  name:
+    first: Tony
+    last: Evers
+  terms:
+  - type: gov
+    state: WI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EAZGH38768
+    MBR_ID: 9003
+    UNIQUEMBRID: 38768
+  name:
+    first: Katie
+    last: Hobbs
+  terms:
+  - type: gov
+    state: AZ
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EOKAD51260
+    MBR_ID: 9236
+    UNIQUEMBRID: 51260
+  name:
+    first: Gentner
+    last: Drummond
+  terms:
+  - type: atty gen
+    state: OK
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENMLM37025
+    MBR_ID: 9131
+    UNIQUEMBRID: 37025
+  name:
+    first: Howie
+    last: Morales
+  terms:
+  - type: lt gov
+    state: NM
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EGAAC46130
+    MBR_ID: 9210
+    UNIQUEMBRID: 46130
+  name:
+    first: Christopher
+    last: Carr
+  terms:
+  - type: atty gen
+    state: GA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EPAGS44680
+    MBR_ID: 9038
+    UNIQUEMBRID: 44680
+  name:
+    first: Josh
+    last: Shapiro
+  terms:
+  - type: gov
+    state: PA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENEAH45699
+    MBR_ID: 9227
+    UNIQUEMBRID: 45699
+  name:
+    first: Mike
+    last: Hilgers
+  terms:
+  - type: atty gen
+    state: NE
+    class: 
+    district: 000
+    party: Independent
+    contact_form: 
+- id:
+    bioguide: EGASR48023
+    MBR_ID: 9310
+    UNIQUEMBRID: 48023
+  name:
+    first: Brad
+    last: Raffensperger
+  terms:
+  - type: sec state
+    state: GA
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWASH35906
+    MBR_ID: 9347
+    UNIQUEMBRID: 35906
+  name:
+    first: Steve
+    last: Hobbs
+  terms:
+  - type: sec state
+    state: WA
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMTAK39819
+    MBR_ID: 9226
+    UNIQUEMBRID: 39819
+  name:
+    first: Austin
+    last: Knudsen
+  terms:
+  - type: atty gen
+    state: MT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENCSM27602
+    MBR_ID: 9333
+    UNIQUEMBRID: 27602
+  name:
+    first: Elaine F.
+    last: Marshall
+  terms:
+  - type: sec state
+    state: NC
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EOHLT52978
+    MBR_ID: 9135
+    UNIQUEMBRID: 52978
+  name:
+    first: Jim
+    last: Tressel
+  terms:
+  - type: lt gov
+    state: OH
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENEGP50299
+    MBR_ID: 9027
+    UNIQUEMBRID: 50299
+  name:
+    first: Jim
+    last: Pillen
+  terms:
+  - type: gov
+    state: NE
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EINLB52786
+    MBR_ID: 9114
+    UNIQUEMBRID: 52786
+  name:
+    first: Micah
+    last: Beckwith
+  terms:
+  - type: lt gov
+    state: IN
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMNAE32325
+    MBR_ID: 9223
+    UNIQUEMBRID: 32325
+  name:
+    first: Keith M.
+    last: Ellison
+  terms:
+  - type: atty gen
+    state: MN
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENMGL1050
+    MBR_ID: 9031
+    UNIQUEMBRID: 1050
+  name:
+    first: Michelle
+    last: Lujan Grisham
+  terms:
+  - type: gov
+    state: NM
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMILG47236
+    MBR_ID: 9122
+    UNIQUEMBRID: 47236
+  name:
+    first: Garlin
+    last: Gilchrist
+  terms:
+  - type: lt gov
+    state: MI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EAKAT49643
+    MBR_ID: 9202
+    UNIQUEMBRID: 49643
+  name:
+    first: Treg R.
+    last: Taylor
+  terms:
+  - type: atty gen
+    state: AK
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EVTLR41285
+    MBR_ID: 9145
+    UNIQUEMBRID: 41285
+  name:
+    first: John
+    last: Rodgers
+  terms:
+  - type: lt gov
+    state: VT
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EIASP43910
+    MBR_ID: 9315
+    UNIQUEMBRID: 43910
+  name:
+    first: Paul
+    last: Pate
+  terms:
+  - type: sec state
+    state: IA
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EINSM50124
+    MBR_ID: 9314
+    UNIQUEMBRID: 50124
+  name:
+    first: Diego
+    last: Morales
+  terms:
+  - type: sec state
+    state: IN
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENYLD49812
+    MBR_ID: 9132
+    UNIQUEMBRID: 49812
+  name:
+    first: Antonio
+    last: Delgado
+  terms:
+  - type: lt gov
+    state: NY
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EALSA46686
+    MBR_ID: 9301
+    UNIQUEMBRID: 46686
+  name:
+    first: Wesley
+    last: Allen
+  terms:
+  - type: sec state
+    state: AL
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECOSG46417
+    MBR_ID: 9306
+    UNIQUEMBRID: 46417
+  name:
+    first: Jena
+    last: Griswold
+  terms:
+  - type: sec state
+    state: CO
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMSGR40629
+    MBR_ID: 9024
+    UNIQUEMBRID: 40629
+  name:
+    first: Tate
+    last: Reeves
+  terms:
+  - type: gov
+    state: MS
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EOKSC39241
+    MBR_ID: 9336
+    UNIQUEMBRID: 39241
+  name:
+    first: Josh
+    last: Cockroft
+  terms:
+  - type: sec state
+    state: OK
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EKSAK39739
+    MBR_ID: 9216
+    UNIQUEMBRID: 39739
+  name:
+    first: Kris
+    last: Kobach
+  terms:
+  - type: atty gen
+    state: KS
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENMAT51129
+    MBR_ID: 9231
+    UNIQUEMBRID: 51129
+  name:
+    first: Raul
+    last: Torres
+  terms:
+  - type: atty gen
+    state: NM
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EPAAS52789
+    MBR_ID: 9238
+    UNIQUEMBRID: 52789
+  name:
+    first: Dave
+    last: Sunday
+  terms:
+  - type: atty gen
+    state: PA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EVAAM44491
+    MBR_ID: 9246
+    UNIQUEMBRID: 44491
+  name:
+    first: Jason
+    last: Miyares
+  terms:
+  - type: atty gen
+    state: VA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECALK46414
+    MBR_ID: 9105
+    UNIQUEMBRID: 46414
+  name:
+    first: Eleni
+    last: Kounalakis
+  terms:
+  - type: lt gov
+    state: CA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ELAAM51776
+    MBR_ID: 9218
+    UNIQUEMBRID: 51776
+  name:
+    first: Liz
+    last: Murrill
+  terms:
+  - type: atty gen
+    state: LA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EKYSA48235
+    MBR_ID: 9317
+    UNIQUEMBRID: 48235
+  name:
+    first: Michael
+    last: Adams
+  terms:
+  - type: sec state
+    state: KY
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWILR49500
+    MBR_ID: 9149
+    UNIQUEMBRID: 49500
+  name:
+    first: Sara
+    last: Rodriguez
+  terms:
+  - type: lt gov
+    state: WI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ETNSH27611
+    MBR_ID: 9342
+    UNIQUEMBRID: 27611
+  name:
+    first: Tre
+    last: Hargett
+  terms:
+  - type: sec state
+    state: TN
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ELASL37300
+    MBR_ID: 9318
+    UNIQUEMBRID: 37300
+  name:
+    first: Nancy R.
+    last: Landry
+  terms:
+  - type: sec state
+    state: LA
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EUTGC44339
+    MBR_ID: 9044
+    UNIQUEMBRID: 44339
+  name:
+    first: Spencer
+    last: Cox
+  terms:
+  - type: gov
+    state: UT
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENCLH47677
+    MBR_ID: 9133
+    UNIQUEMBRID: 47677
+  name:
+    first: Rachel
+    last: Hunt
+  terms:
+  - type: lt gov
+    state: NC
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMTSJ49005
+    MBR_ID: 9326
+    UNIQUEMBRID: 49005
+  name:
+    first: Christi
+    last: Jacobsen
+  terms:
+  - type: sec state
+    state: MT
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ECTAT35285
+    MBR_ID: 9207
+    UNIQUEMBRID: 35285
+  name:
+    first: William M.
+    last: Tong
+  terms:
+  - type: atty gen
+    state: CT
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMIAN47239
+    MBR_ID: 9222
+    UNIQUEMBRID: 47239
+  name:
+    first: Dana
+    last: Nessel
+  terms:
+  - type: atty gen
+    state: MI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EMESB44834
+    MBR_ID: 9319
+    UNIQUEMBRID: 44834
+  name:
+    first: Shenna
+    last: Bellows
+  terms:
+  - type: sec state
+    state: ME
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EALGI38574
+    MBR_ID: 9001
+    UNIQUEMBRID: 38574
+  name:
+    first: Kay
+    last: Ivey
+  terms:
+  - type: gov
+    state: AL
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMIGW47230
+    MBR_ID: 9022
+    UNIQUEMBRID: 47230
+  name:
+    first: Gretchen
+    last: Whitmer
+  terms:
+  - type: gov
+    state: MI
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: 
+    MBR_ID: 9400
+    UNIQUEMBRID: 1176
+  name:
+    first: Donald J.
+    last: Trump
+  terms:
+  - type: pres
+    state: 
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMNLF44405
+    MBR_ID: 9123
+    UNIQUEMBRID: 44405
+  name:
+    first: Peggy
+    last: Flanagan
+  terms:
+  - type: lt gov
+    state: MN
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EDELG48578
+    MBR_ID: 9108
+    UNIQUEMBRID: 48578
+  name:
+    first: Kyle Evans
+    last: Gay
+  terms:
+  - type: lt gov
+    state: DE
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EIALC47943
+    MBR_ID: 9115
+    UNIQUEMBRID: 47943
+  name:
+    first: Chris
+    last: Cournoyer
+  terms:
+  - type: lt gov
+    state: IA
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENHGA52783
+    MBR_ID: 9029
+    UNIQUEMBRID: 52783
+  name:
+    first: Kelly
+    last: Ayotte
+  terms:
+  - type: gov
+    state: NH
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EILLS45358
+    MBR_ID: 9113
+    UNIQUEMBRID: 45358
+  name:
+    first: Juliana
+    last: Stratton
+  terms:
+  - type: lt gov
+    state: IL
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: ENVLA51358
+    MBR_ID: 9128
+    UNIQUEMBRID: 51358
+  name:
+    first: Stavros
+    last: Anthony
+  terms:
+  - type: lt gov
+    state: NV
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ESCGM42931
+    MBR_ID: 9040
+    UNIQUEMBRID: 42931
+  name:
+    first: Henry
+    last: McMaster
+  terms:
+  - type: gov
+    state: SC
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENESE47259
+    MBR_ID: 9327
+    UNIQUEMBRID: 47259
+  name:
+    first: Robert
+    last: Evnen
+  terms:
+  - type: sec state
+    state: NE
+    class: 1
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EWAGF42398
+    MBR_ID: 9047
+    UNIQUEMBRID: 42398
+  name:
+    first: Bob
+    last: Ferguson
+  terms:
+  - type: gov
+    state: WA
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EWISG51538
+    MBR_ID: 9349
+    UNIQUEMBRID: 51538
+  name:
+    first: Sarah
+    last: Godlewski
+  terms:
+  - type: sec state
+    state: WI
+    class: 1
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EFLGD1027
+    MBR_ID: 9009
+    UNIQUEMBRID: 1027
+  name:
+    first: Ron
+    last: DeSantis
+  terms:
+  - type: gov
+    state: FL
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: EMOAB51495
+    MBR_ID: 9225
+    UNIQUEMBRID: 51495
+  name:
+    first: Andrew
+    last: Bailey
+  terms:
+  - type: atty gen
+    state: MO
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ENJGM46277
+    MBR_ID: 9030
+    UNIQUEMBRID: 46277
+  name:
+    first: Phil
+    last: Murphy
+  terms:
+  - type: gov
+    state: NJ
+    class: 
+    district: 000
+    party: Democrat
+    contact_form: 
+- id:
+    bioguide: EARLR42639
+    MBR_ID: 9104
+    UNIQUEMBRID: 42639
+  name:
+    first: Leslie
+    last: Rutledge
+  terms:
+  - type: lt gov
+    state: AR
+    class: 
+    district: 000
+    party: Republican
+    contact_form: 
+- id:
+    bioguide: ETNLM26191
+    MBR_ID: 9142
+    UNIQUEMBRID: 26191
+  name:
+    first: Randy
+    last: McNally
+  terms:
+  - type: lt gov
+    state: TN
+    class: 
+    district: 000
+    party: Republican
+    contact_form:
